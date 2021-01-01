@@ -5,6 +5,7 @@ During the project two type of MATLAB scripts. One script was able to make the s
 
 Here is the surface plot inside the dome for CO2.
 
+<img src="https://github.com/devanshuThakar/PvT-model/blob/main/Surface_PVT_Saturated_Mixture.png" width="200" height="200" />
 ![alt-text](https://github.com/devanshuThakar/PvT-model/blob/main/Surface_PVT_Saturated_Mixture.png=250x)
 
 The completer surface plot is for CO2 is also shown. 
