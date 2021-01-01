@@ -8,6 +8,7 @@ The surface plot inside the dome and the complete surface plot for CO2 is shown 
 <img src="https://github.com/devanshuThakar/PvT-model/blob/main/Surface_PVT_Saturated_Mixture.png" width="400" height="300" /> <img src="https://github.com/devanshuThakar/PvT-model/blob/main/CO2_Model_Surface.png" width="400" height="300" /> 
 
 The solid models generated from MATLAB are also shown as follows.
+
 <img src="https://github.com/devanshuThakar/PvT-model/blob/main/Solid_PVT_saturatedMixture.png" width="400" height="300" /> <img src="https://github.com/devanshuThakar/PvT-model/blob/main/CO2_Model-image.png" width="400" height="300" /> 
 
 An application of C02 has been discussed in this project. For details see the report. <a href="https://youtu.be/Jfh4p86uNpg" target="_blank">Video</a>
